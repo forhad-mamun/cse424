@@ -6,7 +6,10 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1hGegFdqVnrVZqpTUueQelXcR3wXR-QfZEr7-T1aoDCQ/edit#slide=id.p
 
+Paper Link:
+https://ieeexplore.ieee.org/document/8876896
 
 project title:
 Sentiment Analysis with deep learning
