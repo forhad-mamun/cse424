@@ -4,12 +4,25 @@ https://www.overleaf.com/project/6429c090f03ec98479adb599
 Link to unlisted YouTube video:
 
 
+Two public links to the Concept Map (anyone on the internet can view without login):
+PDF: 
 
-Public link to the slide (Anyone on the internet can view without login):
+Native/original format: 
 
 
-project title:
-Sentiment Analysis with deep learning
+Name, Author, Edition, year, and publisher of the Book:
+Speech and Language Processing
+Jurafsky
+3rd edition
+2014
+Pearson
+Chapter name: Naive Bayes and Sentiment Classification 
+
+Link to the book:
+https://web.stanford.edu/~jurafsky/slp3/
+
+Link to the book chapter:
+https://web.stanford.edu/~jurafsky/slp3/4.pdf
 
 Group number:
 24
