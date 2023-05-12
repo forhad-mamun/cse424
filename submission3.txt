@@ -1,1 +1,18 @@
+overleaf link:
+https://www.overleaf.com/project/6429c090f03ec98479adb599
 
+Link to unlisted YouTube video:
+
+
+
+Public link to the slide (Anyone on the internet can view without login):
+
+
+project title:
+Sentiment Analysis with deep learning
+
+Group number:
+24
+
+Group member:
+17201044 Md. Forhad Mamun
